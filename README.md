@@ -2,7 +2,7 @@
 
 We release here the datasets and the codes used for Indoor distance estimation over the scale of 4.14 m × 2.86 m. 
 
-To install few basic libraries run the following command: ``` pip install -r req.txt ```
+To install the required Python libraries run the following command: ``` pip install -r req.txt ```
 
 - The datasets are placed ``` data/sorted_data ```
 
