@@ -6,7 +6,8 @@ To install the required Python libraries run the following command: ``` pip inst
 
 - The datasets are placed ``` data/sorted_data ```
 
-- To train and evaluate the model, run : ``` python classifier.py ```
+- To train and evaluate the model, run (file in \model folder) : ``` python classifier.py ```
+
 
 
 In case of any questions, feel free to drop an email at [pranavsankhe40@gmail.com](pranavsankhe40@gmail.com) :smiley:
